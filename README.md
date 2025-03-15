@@ -1,2 +1,1 @@
-# LampSensor
-# LampSensor With Etintiometer and Resistor
+# LampSensor With Potentiometer and Resistor
